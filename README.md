@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammad-ali-aren
+- 👋 Hi, I’m Muhammad ali
 - 👀 I’m interested in machine and deep learning 
 - 🌱 I’m currently learning it
 - 💞️ I’m looking to collaborate on various deep and machine learning projects. 
