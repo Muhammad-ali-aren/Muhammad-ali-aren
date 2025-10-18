@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Muhammad ali
-- 👀 I’m interested in computer vision
-- 🌱 I’m currently learning it
+- 👀 I’m extremely interested in computer vision
 - 💞️ I’m looking to collaborate on various computer vision projects
 - 📫 you can contact me by muhammadalipaf999@gmail.com 
 
