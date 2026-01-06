@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad ali
 - 👀 I’m extremely interested in AI.
-- 💞️ I’m looking to collaborate on various computer vision projects
+- 💞️ I’m looking to collaborate on various AI projects
 - 📫 you can contact me by muhammadalipaf999@gmail.com 
 
 <!---
